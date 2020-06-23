@@ -1,0 +1,190 @@
+/*----------- CSS -----------*/
+/*---------- Tags -----------*/
+body {
+  background-color: #e4f9f5;
+  margin: 0;
+  font-family: 'Cairo', sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+h1 {
+  margin-left: 5%;
+}
+
+p {
+  margin-left: 5%;
+}
+
+/*------- Classes (.) -------*/
+.top-container {
+  width: 100%;
+  text-align: center;
+  padding-top: 10%;
+}
+
+.Ueberschrift {
+  text-align: center;
+  margin: 0 auto;
+}
+
+
+
+.middle-container {
+  width: 95%;
+  margin-bottom: 10%;
+}
+
+.bottom-container {
+  background-color: #30e3ca;
+  text-align: center;
+  bottom: 10%;
+  width: 100%;
+}
+
+.text-red {
+  color: red;
+}
+
+.text-green {
+  color: green;
+}
+
+.text-yellow {
+  color: yellow;
+}
+
+.home-button {
+  background-color: yellow;
+  position: fixed;
+  text-align: center;
+  border: 0;
+  border-left: 1px;
+  border-left-color: black;
+  border-style: solid;
+  width: 10%;
+  margin-left: 5%;
+  left: 0px;
+  bottom: 5%;
+}
+
+.info-button {
+  background-color: yellow;
+  position: fixed;
+  text-align: center;
+  border: 0;
+  border-left: 1px;
+  border-left-color: black;
+  border-style: solid;
+  width: 10%;
+  left: 15%;
+  bottom: 5%;
+}
+
+.html-button {
+  background-color: yellow;
+  position: fixed;
+  text-align: center;
+  border: 0;
+  border-left: 1px;
+  border-left-color: black;
+  border-style: solid;
+  width: 10%;
+  left: 25%;
+  bottom: 5%;
+}
+
+.css-button {
+  background-color: yellow;
+  position: fixed;
+  text-align: center;
+  border: 0;
+  border-left: 1px;
+  border-left-color: black;
+  border-style: solid;
+  width: 10%;
+  left: 35%;
+  bottom: 5%;
+}
+
+
+.five-button {
+  background-color: yellow;
+  position: fixed;
+  text-align: center;
+  border: 0;
+  border-left: 1px;
+  border-left-color: black;
+  border-style: solid;
+  width: 10%;
+  left: 45%;
+  bottom: 5%;
+}
+
+
+.six-button {
+  background-color: yellow;
+  position: fixed;
+  text-align: center;
+  border: 0;
+  border-left: 1px;
+  border-left-color: black;
+  border-style: solid;
+  width: 10%;
+  left: 55%;
+  bottom: 5%;
+}
+
+
+.seven-button {
+  background-color: yellow;
+  position: fixed;
+  text-align: center;
+  border: 0;
+  border-left: 1px;
+  border-left-color: black;
+  border-style: solid;
+  width: 10%;
+  left: 65%;
+  bottom: 5%;
+}
+
+
+.eight-button {
+  background-color: yellow;
+  position: fixed;
+  text-align: center;
+  border: 0;
+  border-left: 1px;
+  border-left-color: black;
+  border-style: solid;
+  width: 10%;
+  left: 75%;
+  bottom: 5%;
+}
+
+
+.nine-button {
+  background-color: yellow;
+  position: fixed;
+  text-align: center;
+  border: 0;
+  border-left: 1px;
+  border-right: 1px;
+  border-color: black;
+  border-style: solid;
+  width: 10%;
+  left: 85%;
+  bottom: 5%;
+}
+
+/*--------- IDs (#) ---------*/
+#lemon-picture {
+  width: 10%;
+}
